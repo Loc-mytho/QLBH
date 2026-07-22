@@ -1,3 +1,4 @@
+// PR5: wire 404 + breadcrumb + responsive sidebar
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
